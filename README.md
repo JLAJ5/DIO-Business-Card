@@ -2,10 +2,17 @@
 
 Aplicativo de lista de cartão de visita onde é possível manter os dados nome, empresa, telefone de contato, email e cor de fundo do cartão utilizando banco de dados Room.
 
-## Sobre o Autor
-Oi, sou o Igor! Estou aqui para contribuir com meu conhecimento nesse aplicativo Android utilizando Kotlin. Espero poder ajudar no desenvolvimento profissional de cada um de vocês.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Igor_Bagliotti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/igor-rotondo-bagliotti-b1612b69)](https://br.linkedin.com/in/igor-rotondo-bagliotti-b1612b69)  [![Gmail Badge](https://img.shields.io/badge/-igor.bagliotti@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor.bagliotti@gmail.com)](mailto:igor.bagliotti@gmail.com)
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/jorge-azevedo-ab8b4b43/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-JorgeAzevedo-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://www.instagram.com/jorge.luis.eng/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-JorgeAzevedo-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+<a href="https://web.dio.me/users/jorge_luis_eng?tab=achievements" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-JorgeAzevedo-05122A?style=flat&logo=counter-strike" alt="DIO"/>
+</a>
+</p>
 
 ## <br />Tecnologias utilizadas
 1. Room
